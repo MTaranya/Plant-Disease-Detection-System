@@ -2,21 +2,20 @@
 
 This project is used to identify whether a plant leaf is healthy or diseased.
 
-## Week 1 
+## Current Progress
 
+### Week 1
 
-Basic Image Classification
+- Basic Image Classification
 
 ### Week 2
-
 
 - Dataset Preparation
 - Data Augmentation
 - CNN Preparation
 - Dataset Balancing
 
-## Tools Used
-
+### Tools Used
 
 - Python
 - OpenCV
