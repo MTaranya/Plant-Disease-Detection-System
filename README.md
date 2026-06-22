@@ -2,12 +2,13 @@
 
 This project is used to identify whether a plant leaf is healthy or diseased.
 
-## Week 1 Task
+## Week 1 
 
 
 Basic Image Classification
 
 ### Week 2
+
 
 - Dataset Preparation
 - Data Augmentation
