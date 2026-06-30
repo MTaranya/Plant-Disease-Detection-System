@@ -57,32 +57,10 @@ This project is used to identify whether a plant leaf is healthy or diseased.
 
 ---
 
-## 4. Model Training
-
-* Trained the CNN model using the prepared dataset.
-* Used 20,639 images from the PlantVillage dataset.
-* Trained the model to classify images into 10 disease categories.
-
----
-
-## 5. Documentation and Repository Management
+## 4. Documentation and Repository Management
 
 * Maintained project documentation.
 * Updated GitHub repository with dataset samples, augmentation outputs and source code files.
 
 ---
-
-## Current Progress
-
-* Dataset preparation completed.
-* Data augmentation study completed.
-* CNN model preparation completed.
-* Initial model training completed successfully.
-
-## Next Steps
-
-* Improve model performance and accuracy.
-* Integrate the trained model into a user-friendly application.
-* Perform real-time disease prediction using uploaded leaf images.
-
 
