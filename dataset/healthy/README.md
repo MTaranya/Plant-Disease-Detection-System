@@ -1,1 +1,0 @@
-Healthy leaf images
