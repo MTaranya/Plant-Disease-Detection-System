@@ -1,1 +1,0 @@
-Diseased leaf images
